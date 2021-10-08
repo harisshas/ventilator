@@ -1,0 +1,44 @@
+08/03/20 09:56:29 AM :: starting program run
+08/03/20 09:56:29 AM :: connecting to COM12
+08/03/20 09:56:29 AM :: Serial declare exception
+08/03/20 09:56:29 AM :: Thread declaration exception
+08/03/20 09:56:29 AM :: Thread start exception
+08/03/20 09:56:32 AM :: Serial close exception
+08/03/20 09:56:32 AM :: Closing serial thread exception
+08/03/20 09:56:32 AM :: Closing program
+08/03/20 10:29:59 AM :: starting program run
+08/03/20 10:29:59 AM :: connecting to COM12
+08/03/20 10:29:59 AM :: Serial declare exception
+08/03/20 10:29:59 AM :: Thread declaration exception
+08/03/20 10:29:59 AM :: Thread start exception
+08/03/20 10:30:03 AM :: Serial data write exception standby
+08/03/20 10:30:04 AM :: Serial data write exception standby
+08/03/20 10:30:06 AM :: Serial close exception
+08/03/20 10:30:06 AM :: Closing serial thread exception
+08/03/20 10:30:06 AM :: Closing program
+08/03/20 10:31:43 AM :: starting program run
+08/03/20 10:31:43 AM :: connecting to COM12
+08/03/20 10:31:43 AM :: Serial declare exception
+08/03/20 10:31:43 AM :: Thread declaration exception
+08/03/20 10:31:43 AM :: Thread start exception
+08/03/20 10:31:46 AM :: Serial close exception
+08/03/20 10:31:46 AM :: Closing serial thread exception
+08/03/20 10:31:46 AM :: Closing program
+08/04/20 11:21:30 AM :: starting program run
+08/04/20 11:21:30 AM :: connecting to COM12
+08/04/20 11:21:30 AM :: Serial declare exception
+08/04/20 11:21:32 AM :: Thread declaration exception
+08/04/20 11:21:32 AM :: Thread start exception
+08/04/20 11:21:36 AM :: Serial data write exception standby
+08/04/20 11:21:37 AM :: Serial data write exception standby
+08/04/20 11:21:40 AM :: Serial close exception
+08/04/20 11:21:40 AM :: Closing serial thread exception
+08/04/20 11:21:40 AM :: Closing program
+08/04/20 11:23:28 AM :: starting program run
+08/04/20 11:23:28 AM :: connecting to COM12
+08/04/20 11:23:28 AM :: Serial declare exception
+08/04/20 11:23:28 AM :: Thread declaration exception
+08/04/20 11:23:28 AM :: Thread start exception
+08/04/20 11:23:31 AM :: Serial close exception
+08/04/20 11:23:31 AM :: Closing serial thread exception
+08/04/20 11:23:31 AM :: Closing program
